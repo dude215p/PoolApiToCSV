@@ -1,0 +1,8 @@
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\bin\Debug\PoolApiToCSV.exe.config
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\bin\Debug\PoolApiToCSV.exe
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\bin\Debug\PoolApiToCSV.pdb
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\bin\Debug\Newtonsoft.Json.dll
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\bin\Debug\Newtonsoft.Json.xml
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\obj\Debug\PoolApiToCSV.csprojResolveAssemblyReference.cache
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\obj\Debug\PoolApiToCSV.exe
+c:\users\radulescuc\documents\visual studio 2015\Projects\PoolApiToCSV\PoolApiToCSV\obj\Debug\PoolApiToCSV.pdb
